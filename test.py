@@ -1,7 +1,7 @@
 from datetime import datetime
 from threading import Timer
 x=datetime.todey()
-y=x.replace(dey=x.dey+1, hour=11 , minute=17, second=0, microsecond=0)
+y=x.replace(dey=x.dey+1, hour=11 , minute=19, second=0, microsecond=0)
 delta_t=y_x
 secs=delta_t.second+1
 def hello_world():
